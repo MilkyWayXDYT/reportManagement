@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\report management\\report management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|solutionrelative:report management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\report management\\report management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|solutionrelative:report management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\report management\\report management\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|solutionrelative:report management\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\report management\\report management\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9295AD7E-C989-482E-A290-40FCA5F16FCD}|Report management\\Report management.csproj|solutionrelative:report management\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\Form1.cs",
+              "RelativeDocumentMoniker": "Report management\\Form1.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\Form1.cs",
+              "RelativeToolTip": "Report management\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:53:28.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Report management\\ReportManager.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\ReportManager.cs",
+              "RelativeToolTip": "Report management\\ReportManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:52:00.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Report.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\Report.cs",
+              "RelativeDocumentMoniker": "Report management\\Report.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\Report.cs",
+              "RelativeToolTip": "Report management\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:51:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Report management\\Report management\\Form1.cs",
               "RelativeDocumentMoniker": "Report management\\Form1.cs",
